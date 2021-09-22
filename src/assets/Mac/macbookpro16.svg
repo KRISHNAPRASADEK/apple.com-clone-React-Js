@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 58 54">
+  <defs>
+    <style>
+      .a {
+        fill: #1d1d1f;
+      }
+    </style>
+  </defs>
+  <title>macbookpro_large_</title>
+  <path class="a" d="M52.987,46.987V19.49A1.47,1.47,0,0,0,51.5,18H6.5a1.468,1.468,0,0,0-1.49,1.49v27.5H0v1.428c.639,1.034,4.094,1.572,5.465,1.572h46.7c1.372,0,5.2-.538,5.839-1.572V46.987ZM7,19.987H51v27H7Z"/>
+</svg>

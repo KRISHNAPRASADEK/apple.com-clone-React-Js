@@ -1,0 +1,236 @@
+.ipadheadbackground-am{
+     background-color: #fafafa;
+     padding-bottom: 4%;
+}   
+.headipadpro-am{
+    margin-left: 23%;
+    margin-top: 1%;
+    width: 41px;
+    height: 54px;
+    background-size: 41px 54px;
+    background-repeat: no-repeat;
+    /* background-image: url(https://www.apple.com/v/ipad/home/bo/images/chapternav/ipadpro_light__eksnhatoqzu6_large.svg); */
+}
+.linkclass:hover{
+    text-decoration: none;
+    color: blue;
+}
+.ipadprocap-am{
+    font-size: 12px;
+    line-height: 1.33337;
+    font-weight: 400;
+    letter-spacing: -.01em;
+    font-family: "SF Pro Text","SF Pro Icons","Helvetica Neue","Helvetica","Arial",sans-serif;
+    display: block;
+    margin: 0;
+    margin-top: 0.5%;
+    margin-left: 23%;
+}
+.headipadair-am{
+     margin-left: 30%;
+    margin-top: -14.3%;
+    width: 30px;
+    height: 54px;
+    background-size: 30px 54px;
+    background-repeat: no-repeat;
+    
+}
+.ipadnewclass-am{
+    font-size: 12px;
+    line-height: 2.08337;
+    font-weight: 400;
+    letter-spacing: -.011em;
+    font-family: "SF Pro Text","SF Pro Icons","Helvetica Neue","Helvetica","Arial",sans-serif;
+    color: #f56300;
+    margin-left: 15%;
+    margin-top: 16%;
+}
+.ipadproclass-am{
+    margin-top: -3%;
+     font-size: 45px;
+    line-height: 2.08337;
+    font-weight: 600;
+    letter-spacing: -.011em;
+    font-family: "SF Pro Text","SF Pro Icons","Helvetica Neue","Helvetica","Arial",sans-serif;
+     margin-left: 15%;
+     color: #1d1d1f;
+
+}
+.experienceclass-am{
+    font-size: 24px;
+    line-height: 1.16667;
+    font-weight: 600;
+    letter-spacing: .009em;
+    font-family: "SF Pro Display","SF Pro Icons","Helvetica Neue","Helvetica","Arial",sans-serif;
+    margin-left: 15%;
+    margin-top: -3%;
+    color: #1d1d1f;
+}
+.ipadpropriceclass-am{
+    font-size: 17px;
+    line-height: 1.47059;
+    font-weight: 400;
+    letter-spacing: -.022em;
+    font-family: "SF Pro Text","SF Pro Icons","Helvetica Neue","Helvetica","Arial",sans-serif;
+    margin-left: 15%;
+    color: #1d1d1f;
+    font-style: normal;
+   
+}
+.ipadprohero-am{
+    width: 944px;
+    height: 475px;
+    background-size: 1335px 598px;
+    background-repeat: no-repeat;
+    position: relative;
+    left: 46%;
+    margin-top: -30%;
+    margin-left: -16%;
+
+}
+.ipadprohero2-am{
+    width: 1335px;
+    height: 598px;
+    background-size: 1335px 598px;
+    background-repeat: no-repeat;
+
+}
+.ipadairhero-am{
+    margin-left: 15%;
+    margin-top: 12%;
+}
+.cardtitle-am{
+    font-size: 46px;
+    line-height: 1.07143;
+    font-weight: 600;
+    letter-spacing: -.005em;
+    font-family: "SF Pro Display","SF Pro Icons","Helvetica Neue","Helvetica","Arial",sans-serif;
+    text-align: center;
+    margin-top: 5%;
+}
+.webipadpro-am{
+    font-size: 24px;
+    line-height: 1.16667;
+    font-weight: 600;
+    letter-spacing: .009em;
+    font-family: "SF Pro Display","SF Pro Icons","Helvetica Neue","Helvetica","Arial",sans-serif;
+    margin-left: 17%;
+    margin-top: -1%;
+}
+.webipadproprice-am{
+    font-size: 14px;
+    line-height: 1.42859;
+    font-weight: 400;
+    letter-spacing: -.016em;
+    font-family: "SF Pro Text","SF Pro Icons","Helvetica Neue","Helvetica","Arial",sans-serif;
+    margin-left: 18%;
+    margin-top: -1.5%;
+}
+.webipadprobutton1-am{
+     cursor: pointer;
+    display: inline-block;
+    text-align: center;
+    white-space: nowrap;
+    font-size: 12px;
+    line-height: 1.17648;
+    font-weight: 400;
+    letter-spacing: -.022em;
+    font-family: "SF Pro Text","SF Pro Icons","Helvetica Neue","Helvetica","Arial",sans-serif;
+    min-width: 28px;
+    padding-left: 16px;
+    padding-right: 16px;
+    padding-top: 8px;
+    padding-bottom: 8px;
+    border-radius: 980px;
+    background: #0071e3;
+    color: #fff;
+    margin-top: -1%;
+    margin-left: -58%;
+}
+.webcomparegridhead1-am{
+    font-size: 20px;
+    line-height: 1.1;
+    font-weight: 600;
+    letter-spacing: 0em;
+    font-family: "SF Pro Display","SF Pro Icons","Helvetica Neue","Helvetica","Arial",sans-serif;
+}
+.webcomparegridhead2-am{
+    font-size: 14px;
+    line-height: 1.42859;
+    font-weight: 400;
+    letter-spacing: -.016em;
+    font-family: "SF Pro Text","SF Pro Icons","Helvetica Neue","Helvetica","Arial",sans-serif;
+}
+.comparem1chip-am{
+    width: 38px;
+    height: 38px;
+    background-size: 38px 38px;
+    background-repeat: no-repeat;
+}
+.compareusbc-am{
+    width: 61px;
+    height: 22px;
+    background-size: 61px 22px;
+    background-repeat: no-repeat;
+}
+.compareusbc2-am{
+    width: 32px;
+    height: 22px;
+    background-size: 32px 22px;
+    background-repeat: no-repeat;
+}
+.comparecellular5g-am{
+    width: 48px;
+    height: 35px;
+    background-size: 48px 35px;
+    background-repeat: no-repeat;
+}
+.comparepencil2-am{
+    width: 62px;
+    height: 6px;
+    background-size: 62px 6px;
+    background-repeat: no-repeat;
+}
+.smallipadprohero-am{
+    width: 540px;
+    height: 268px;
+    background-size: 540px 268px;
+    background-repeat: no-repeat;
+    left: 50%;
+    margin-left: 0px;
+}
+.smallipadairhero-am{
+    width: 287px;
+    height: 343px;
+    background-size: 287px 343px;
+    background-repeat: no-repeat;
+}
+.smallipada102-am{
+    width: 415px;
+    height: 220px;
+    background-size: 415px 220px;
+    background-repeat: no-repeat;
+}
+.smallipadmini-am{
+    width: 316px;
+    height: 452px;
+    background-size: 316px 452px;
+    background-repeat: no-repeat;
+
+}
+.ukcard2-am {
+    width: 100%;
+    margin-top: -11%;
+    margin-left: 0%;
+}
+.ukcard3-am{
+    margin-top: 26%;
+    width: 180%;
+    background-color: lavender;
+    margin-left: -10%;
+    padding-right: 110%;
+    padding-bottom: 1%;
+    margin-bottom: -9%;
+}
+    
+    

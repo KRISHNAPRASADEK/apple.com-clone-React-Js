@@ -1,0 +1,10 @@
+.heading-sign {
+  font-size: 2.2rem;
+  color: black;
+  font-weight: 500;
+  margin-top: 60px;
+}
+form .submit .button {
+  width: 204px;
+  height: 48px;
+}

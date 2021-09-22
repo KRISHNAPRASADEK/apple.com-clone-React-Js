@@ -1,0 +1,560 @@
+.macbookairpro13 {
+  background-color: #000;
+}
+
+/* --------------------section1------------ */
+.mbap01-am1 {
+  background-color: rgba(29, 29, 31, 0.72);
+  position: fixed;
+  width: 100%;
+  height: 8%;
+}
+.mbap01-am1 ::after {
+  left: 50%;
+  content: "";
+  display: block;
+  position: absolute;
+  top: 100%;
+  width: 980px;
+  height: 0.5px;
+  z-index: 1;
+  background-color: rgba(255, 255, 255, 0.24);
+  margin-left: 0;
+  left: 0;
+  width: 100%;
+}
+
+.ml {
+  font-size: 21px;
+  line-height: 1.14286;
+  font-weight: 600;
+  letter-spacing: 0.011em;
+  font-family: "SF Pro Display", "SF Pro Icons", "Helvetica Neue", "Helvetica",
+    "Arial", sans-serif;
+  cursor: default;
+  display: block;
+
+  text-align: inherit;
+  color: #fff;
+  opacity: 0.92;
+}
+.mainlink {
+  margin-left: 15%;
+  padding-top: 1.5%;
+}
+.ur-am1 {
+  margin-top: -1.8%;
+  margin-right: 16%;
+  float: right;
+}
+
+.list1 {
+  text-underline-offset: auto;
+  color: white;
+  /* grid-gap: 28px; */
+  padding: 17px;
+  font-size: 12px;
+  font-family: inherit;
+  font-weight: 400;
+  line-height: inherit;
+  text-align: inherit;
+}
+
+.list1 {
+  text-underline-offset: auto;
+  color: white;
+  /* grid-gap: 28px; */
+  padding: 17px;
+  font-size: 12px;
+  font-family: inherit;
+  font-weight: 400;
+  line-height: 36px;
+  text-align: inherit;
+}
+.b2 {
+  background-color: #1e87f0;
+  border-radius: 13px;
+  font-size: 12px;
+  color: white;
+  padding-left: 12px;
+  padding-top: 7px;
+  padding-right: 12px;
+  padding-bottom: 7px;
+  border: none;
+}
+
+/* ---------------------section2------------- */
+.mbap02-am1 {
+  background-color: rgba(29, 29, 31, 0.72);
+  height: 56px;
+  padding-top: 4%;
+}
+.para021 {
+  font-size: 14px;
+  line-height: 1.42859;
+  font-weight: 400;
+  letter-spacing: -0.016em;
+  font-family: "SF Pro Text", "SF Pro Icons", "Helvetica Neue", "Helvetica",
+    "Arial", sans-serif;
+  color: white;
+  padding-top: 1.3%;
+  text-align: center;
+}
+
+/* -----------------------------section3------- */
+.mbap13-am1 {
+  padding-left: 10%;
+  margin-top: 14%;
+}
+
+/* -----section4---- */
+.mac11 {
+  font-size: 32px;
+  line-height: 1.125;
+  font-weight: 600;
+  letter-spacing: 0.004em;
+  font-family: "SF Pro Display", "SF Pro Icons", "Helvetica Neue", "Helvetica",
+    "Arial", sans-serif;
+  color: #f5f5f7;
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+  animation: fade-in-hero 1.5s ease-out 0.5s 1 forwards;
+}
+.mac12 {
+  background: radial-gradient(#eff1ff, #000);
+  background-size: 100% 200%;
+  background-position: 50% 100%;
+
+  background-clip: text;
+  -webkit-text-fill-color: transparent;
+  margin-top: 16px;
+  padding-bottom: 12px;
+
+  text-align: center;
+  color: #a1a1a6;
+  animation: fade-in-hero 1.5s ease-out 0.7s 1 forwards;
+  font-size: 96px;
+  line-height: 1.04167;
+  font-weight: 700;
+  letter-spacing: -0.015em;
+  font-family: "SF Pro Display", "SF Pro Icons", "Helvetica Neue", "Helvetica",
+    "Arial", sans-serif;
+}
+.mac11-am1 {
+  font-size: 32px;
+  line-height: 1.25;
+  font-weight: 500;
+  letter-spacing: 0.004em;
+  font-family: "SF Pro Display", "SF Pro Icons", "Helvetica Neue", "Helvetica",
+    "Arial", sans-serif;
+  color: #a1a1a6;
+  text-align: center;
+  margin-left: 19%;
+  margin-right: 19%;
+}
+
+/* .................section5.......... */
+.imgmac5 {
+  width: 7%;
+  margin-left: 32%;
+}
+.mac50 {
+  display: block;
+  margin-bottom: 0.4em;
+  font-weight: 500;
+  float: right;
+  font-size: 28px;
+  line-height: 1.14286;
+  font-weight: 600;
+  letter-spacing: 0.007em;
+  font-family: "SF Pro Display", "SF Pro Icons", "Helvetica Neue", "Helvetica",
+    "Arial", sans-serif;
+  margin-right: 29%;
+  margin-top: 2.2%;
+}
+
+/* ---------------------------section6--------------------- */
+.macpro60 {
+  font-size: 28px;
+  line-height: 1.14286;
+  font-weight: 600;
+  letter-spacing: 0.007em;
+  font-family: "SF Pro Display", "SF Pro Icons", "Helvetica Neue", "Helvetica",
+    "Arial", sans-serif;
+  color: white;
+  list-style-type: none;
+  margin-left: 34%;
+}
+.macpro61 ::before {
+  content: "|";
+  alt: "";
+  padding: 0 30px;
+}
+.macpro61 ::after {
+  content: ">";
+}
+.macpro61 {
+  list-style-type: none;
+  float: right;
+  margin-right: 36%;
+  font-size: 28px;
+  line-height: 1.14286;
+  font-weight: 600;
+  letter-spacing: 0.007em;
+  font-family: "SF Pro Display", "SF Pro Icons", "Helvetica Neue", "Helvetica",
+    "Arial", sans-serif;
+  /* color: white; */
+  margin-top: -2%;
+  text-decoration: none;
+}
+.link6 {
+  color: white;
+  text-decoration: auto;
+}
+
+/* ------------------------section7------------ */
+.macpro71 {
+  margin-left: 18%;
+  margin-top: 1%;
+}
+.para7 {
+  color: #f5f5f7;
+  font-size: 80px;
+  line-height: 1.05;
+  font-weight: 700;
+  letter-spacing: -0.015em;
+  font-family: "SF Pro Display", "SF Pro Icons", "Helvetica Neue", "Helvetica",
+    "Arial", sans-serif;
+}
+.para71 {
+  margin-left: 18%;
+  margin-right: 31%;
+  color: #a1a1a6;
+  font-size: 28px;
+  line-height: 1.14286;
+  font-weight: 500;
+  letter-spacing: 0.007em;
+  font-family: "SF Pro Display", "SF Pro Icons", "Helvetica Neue", "Helvetica",
+    "Arial", sans-serif;
+}
+
+/* ----------------section8---------------- */
+
+.mbap8-am1 {
+  background: linear-gradient(
+    to right top,
+    #071931 0%,
+    #33274f 50%,
+    #661e43 100%
+  );
+  display: flex;
+  flex-direction: column;
+
+  z-index: 0;
+  box-sizing: border-box;
+  overflow: hidden;
+  background-color: #151516;
+  border-radius: var(--tile-border-radius);
+  min-height: 700px;
+  border-radius: 39px;
+  margin-left: 5%;
+  margin-right: 5%;
+}
+.macpro8 {
+  font-size: 17px;
+  line-height: 1.47059;
+  font-weight: 400;
+  letter-spacing: -0.022em;
+  font-family: "SF Pro Text", "SF Pro Icons", "Helvetica Neue", "Helvetica",
+    "Arial", sans-serif;
+  margin-left: 3%;
+  margin-top: 4%;
+  color: #1d1d1f;
+  font-style: normal;
+}
+.h38 {
+  color: #fff;
+  font-size: 21px;
+  line-height: 1.19048;
+  font-weight: 600;
+  letter-spacing: 0.011em;
+  font-family: "SF Pro Display", "SF Pro Icons", "Helvetica Neue", "Helvetica",
+    "Arial", sans-serif;
+}
+.para8-1 {
+  font-size: 80px;
+  line-height: 1.05;
+  font-weight: 700;
+  letter-spacing: -0.015em;
+  font-family: "SF Pro Display", "SF Pro Icons", "Helvetica Neue", "Helvetica",
+    "Arial", sans-serif;
+  color: white;
+}
+.para8-10 {
+  color: #8679cb;
+  font-size: 80px;
+  line-height: 1.05;
+  font-weight: 700;
+  letter-spacing: -0.015em;
+  font-family: "SF Pro Display", "SF Pro Icons", "Helvetica Neue", "Helvetica",
+    "Arial", sans-serif;
+  margin-right: 10%;
+}
+.para8-2 {
+  font-size: 19px;
+  line-height: 1.4211;
+  font-weight: 600;
+  letter-spacing: 0.012em;
+  font-family: "SF Pro Display", "SF Pro Icons", "Helvetica Neue", "Helvetica",
+    "Arial", sans-serif;
+  color: #fff;
+  margin-right: 25%;
+}
+.sup8 {
+  position: relative;
+  vertical-align: baseline;
+  font-feature-settings: "numr";
+  font-size: 1em;
+}
+.mac81 {
+  margin-left: 3%;
+  margin-right: -3%;
+  margin-top: 5%;
+}
+.button8 {
+  background-color: transparent;
+  border-width: 2px;
+  border-style: solid;
+  border-radius: 100px;
+  padding: 9px 17px;
+  font-weight: 600;
+  cursor: pointer;
+  display: inline-block;
+  text-align: center;
+  white-space: nowrap;
+  font-size: 17px;
+  line-height: 1.17648;
+  font-weight: 400;
+  letter-spacing: -0.022em;
+  font-family: "SF Pro Text", "SF Pro Icons", "Helvetica Neue", "Helvetica",
+    "Arial", sans-serif;
+  min-width: 28px;
+  padding-left: 16px;
+  padding-right: 16px;
+  padding-top: 8px;
+  padding-bottom: 8px;
+  border-radius: 980px;
+  /* background: #0071e3; */
+  color: #fff;
+  white-space: normal;
+}
+
+/* -----------------------------section10------------------- */
+.mbap10-am1 {
+  background: linear-gradient(to bottom, #4c102a 0%, #151516 100%);
+  margin-left: 5%;
+  margin-right: 5%;
+  border-radius: 33px;
+  margin-top: 4%;
+  min-height: 732px;
+}
+.h310 {
+  padding-top: 5%;
+  font-size: 21px;
+  line-height: 1.19048;
+  font-weight: 600;
+  letter-spacing: 0.011em;
+  font-family: "SF Pro Display", "SF Pro Icons", "Helvetica Neue", "Helvetica",
+    "Arial", sans-serif;
+  color: white;
+  /* margin-top: 18%; */
+  margin-left: 4%;
+}
+.img10 {
+  padding-top: 6%;
+  width: 100%;
+}
+.mac102 {
+  padding-top: 5%;
+}
+.para10-1 {
+  font-size: 28px;
+  line-height: 1.14286;
+  font-weight: 600;
+  letter-spacing: 0.007em;
+  font-family: "SF Pro Display", "SF Pro Icons", "Helvetica Neue", "Helvetica",
+    "Arial", sans-serif;
+
+  color: #a1a1a6;
+}
+.second-10 {
+  text-align: center;
+  color: white;
+  margin-top: 8%;
+}
+.para10-2 {
+  font-size: 28px;
+  line-height: 1.14286;
+  font-weight: 600;
+  letter-spacing: 0.007em;
+  font-family: "SF Pro Display", "SF Pro Icons", "Helvetica Neue", "Helvetica",
+    "Arial", sans-serif;
+  color: #fff;
+}
+.div11 {
+  font-size: 96px;
+  line-height: 1;
+  font-weight: 700;
+  letter-spacing: -0.025em;
+  font-family: "SF Pro Display", "SF Pro Icons", "Helvetica Neue", "Helvetica",
+    "Arial", sans-serif;
+}
+.div12 {
+  font-size: 64px;
+  line-height: 1.0625;
+  font-weight: 700;
+  letter-spacing: -0.009em;
+  font-family: "SF Pro Display", "SF Pro Icons", "Helvetica Neue", "Helvetica",
+    "Arial", sans-serif;
+}
+.div13 {
+  font-size: 17px;
+  line-height: 1.47059;
+  font-weight: 500;
+  letter-spacing: -0.022em;
+  font-family: "SF Pro Text", "SF Pro Icons", "Helvetica Neue", "Helvetica",
+    "Arial", sans-serif;
+  text-align: center;
+}
+
+.div21 {
+  text-align: center;
+  font-size: 17px;
+  line-height: 1.47059;
+  font-weight: 500;
+  letter-spacing: -0.022em;
+  font-family: "SF Pro Text", "SF Pro Icons", "Helvetica Neue", "Helvetica",
+    "Arial", sans-serif;
+  color: white;
+}
+.div22 {
+  font-size: 96px;
+  line-height: 1;
+  font-weight: 700;
+  letter-spacing: -0.025em;
+  font-family: "SF Pro Display", "SF Pro Icons", "Helvetica Neue", "Helvetica",
+    "Arial", sans-serif;
+  color: white;
+  text-align: center;
+}
+.div24 {
+  font-size: 17px;
+  line-height: 1.47059;
+  font-weight: 500;
+  letter-spacing: -0.022em;
+  font-family: "SF Pro Text", "SF Pro Icons", "Helvetica Neue", "Helvetica",
+    "Arial", sans-serif;
+  color: white;
+  text-align: center;
+  margin-left: 28%;
+  margin-right: 16%;
+}
+
+/* -------section11----------- */
+.mbap11-am1 {
+  background-image: url("../../assets/macbookpro13/b11.jpg");
+  margin-left: 5%;
+  margin-right: 5%;
+  border-radius: 37px;
+  min-height: 700px;
+  margin-top: 4%;
+}
+.h311 {
+  font-size: 21px;
+  line-height: 1.19048;
+  font-weight: 600;
+  letter-spacing: 0.011em;
+  font-family: "SF Pro Display", "SF Pro Icons", "Helvetica Neue", "Helvetica",
+    "Arial", sans-serif;
+  color: white;
+  margin-left: 3%;
+  padding-top: 5%;
+}
+.para11-1 {
+  font-size: 56px;
+  line-height: 1.07143;
+  font-weight: 700;
+  letter-spacing: -0.028em;
+  font-family: "SF Pro Display", "SF Pro Icons", "Helvetica Neue", "Helvetica",
+    "Arial", sans-serif;
+  color: white;
+  margin-right: 37%;
+  margin-top: 5%;
+}
+.para11-2 {
+  font-size: 19px;
+  line-height: 1.4211;
+  font-weight: 600;
+  letter-spacing: 0.012em;
+  font-family: "SF Pro Display", "SF Pro Icons", "Helvetica Neue", "Helvetica",
+    "Arial", sans-serif;
+  color: white;
+  margin-right: 26%;
+}
+.img11 {
+  width: 100%;
+  height: 109%;
+}
+
+/* -----------------------section12----------------- */
+
+.macpro12 {
+  background-image: url("../../assets/macbookpro13/b12.jpg");
+  width: 43%;
+  margin-left: 7.5%;
+  min-height: 700px;
+  border-radius: 34px;
+  margin-top: 3%;
+}
+.mac12pro-1 {
+  background-image: url("../../assets/macbookpro13/b12-1.jpg");
+  min-height: 700px;
+  border-radius: 34px;
+  width: 43%;
+  margin-top: 3%;
+  margin-left: 2%;
+}
+.h312 {
+  padding-top: 11%;
+  font-size: 21px;
+  line-height: 1.19048;
+  font-weight: 600;
+  letter-spacing: 0.011em;
+  font-family: "SF Pro Display", "SF Pro Icons", "Helvetica Neue", "Helvetica",
+    "Arial", sans-serif;
+  color: white;
+}
+.para12 {
+  font-size: 19px;
+  line-height: 1.4211;
+  font-weight: 600;
+  letter-spacing: 0.012em;
+  font-family: "SF Pro Display", "SF Pro Icons", "Helvetica Neue", "Helvetica",
+    "Arial", sans-serif;
+  color: white;
+  margin-right: 3%;
+}
+.para120 {
+  font-size: 80px;
+  line-height: 1.05;
+  font-weight: 700;
+  letter-spacing: -0.015em;
+  font-family: "SF Pro Display", "SF Pro Icons", "Helvetica Neue", "Helvetica",
+    "Arial", sans-serif;
+  color: white;
+  text-align: center;
+  margin-left: 14%;
+  margin-right: 15%;
+  margin-top: 11%;
+}

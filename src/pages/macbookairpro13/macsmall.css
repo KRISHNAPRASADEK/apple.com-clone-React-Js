@@ -1,0 +1,148 @@
+
+@media (max-width: 640px){
+    /* ---------section1----------- */
+    .mainlink{
+        margin-left: 3%;
+        padding-top: 5%;
+    }
+    .b2{
+        float: right;
+        margin-top: -7%;
+        margin-right: 5%;
+
+    }
+    .mbap01-am1{
+        width: 94%;
+    }
+    .mbap02-am1{
+        padding-top: 18%;
+    }
+    .mbap13-am1{
+        margin-top:10%;
+    }
+    .mac11{
+        font-size: 24px;
+    margin-top: 4%;
+    }
+    .mac12{
+        margin-left: 7%;
+    font-size: 43px;
+    margin-right: 3%;
+    text-align: center;
+    margin-top: 8%;
+    }
+    .mac11-am1{
+        margin-left: 5%;
+    font-size: 25px;
+    text-align: center;
+    margin-right: 5%;
+    }
+    .imgmac5{
+        width: 35%;
+    margin-top: 6%;
+    }
+    .mac50{
+        font-size: 20px;
+        text-align: center;
+        margin-top: 6%;
+        margin-left: 14%;
+        margin-right: 15%;
+    }
+    .mbap6-am1{
+        margin-top: 43%;
+    }
+    .macpro60{
+        font-size: 20px;
+    margin-left: 27%;
+    font-weight: 400;
+    }
+    .macpro61{
+        width: 68%;
+    font-size: 20px;
+    margin-right: 29%;
+    /* margin-left: 26%; */
+    margin-top: 5%;
+    font-weight: 400;
+    }
+    .mbap7-am1{
+        margin-top: 67%;
+        margin-left: -13%;
+    
+    }
+    .img7{
+        width: 30%;
+    }
+    .para7{
+        font-size: 43px;
+    }
+    .para71{
+        font-size: 19px;
+    width: 71%;
+
+    }
+    .mbap8-am1{
+        width: 100%;
+    margin-left: 0%;
+    border-radius: initial;
+    margin-top: 15%;
+
+    }
+    .h38{
+        margin-left: 5%;
+    margin-top: 7%;
+    }
+    .para8-1{
+        margin-left: 5%;
+        font-size: 50px;
+
+    }
+    .para8-10{
+        font-size: 56px;
+    
+
+
+    }
+    .para8-2{
+        width: 83%;
+        margin-left: 5%;
+        font-size: 18px;
+    }
+    .img8{
+        width: 100%;
+    margin-left: 15%;
+    }
+    .mac82{
+        margin-bottom:10%;
+    }
+
+
+    /* --------------section10------------- */
+    .mbap10-am1{
+        border-radius: inherit;
+    margin-left: 0%;
+    margin-right: 0%;
+        
+          
+
+    }
+    .mbap11-am1{
+        border-radius: inherit;
+        margin-left: 0%;
+        margin-right: 0%;
+            
+
+    }
+    .macpro12{
+        width: 100%;
+        border-radius: inherit;
+        margin-left: 0%;
+        margin-right: 0%;
+    }
+    .mac12pro-1{
+        width: 100%;
+        border-radius: inherit;
+        margin-left: 0%;
+        margin-right: 0%;
+
+    }
+}

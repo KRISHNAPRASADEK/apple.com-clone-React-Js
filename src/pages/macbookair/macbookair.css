@@ -1,0 +1,1217 @@
+.uk-container-fluid {
+  background-color: black;
+  margin-top: -2%;
+}
+.mbap01-am1-1 {
+  background-color: rgba(29, 29, 31, 0.72);
+  position: fixed;
+  width: 100%;
+  height: 8%;
+}
+.mbap01-am1-1 ::after {
+  left: 50%;
+  content: "";
+  display: block;
+  position: absolute;
+  top: 100%;
+  width: 980px;
+  height: 0.5px;
+  z-index: 1;
+  background-color: rgba(255, 255, 255, 0.24);
+  margin-left: 0;
+  left: 0;
+  width: 100%;
+}
+
+.ml-1 {
+  font-size: 21px;
+  line-height: 1.14286;
+  font-weight: 600;
+  letter-spacing: 0.011em;
+  font-family: "SF Pro Display", "SF Pro Icons", "Helvetica Neue", "Helvetica",
+    "Arial", sans-serif;
+  cursor: default;
+  display: block;
+
+  text-align: inherit;
+  color: #fff;
+  opacity: 0.92;
+}
+.mainlink-1 {
+  margin-left: 15%;
+  padding-top: 1.5%;
+}
+.ur-am1-1 {
+  margin-top: -1.8%;
+  margin-right: 16%;
+  float: right;
+}
+
+.list1-1 {
+  text-underline-offset: auto;
+  color: white;
+  /* grid-gap: 28px; */
+  padding: 17px;
+  font-size: 12px;
+  font-family: inherit;
+  font-weight: 400;
+  line-height: inherit;
+  text-align: inherit;
+}
+
+.list1-1 {
+  text-underline-offset: auto;
+  color: white;
+  /* grid-gap: 28px; */
+  padding: 17px;
+  font-size: 12px;
+  font-family: inherit;
+  font-weight: 400;
+  line-height: 36px;
+  text-align: inherit;
+}
+.b2-1 {
+  background-color: #1e87f0;
+  border-radius: 13px;
+  font-size: 12px;
+  color: white;
+  padding-left: 12px;
+  padding-top: 7px;
+  padding-right: 12px;
+  padding-bottom: 7px;
+  border: none;
+}
+.para-am1 {
+  text-align: center;
+  text-decoration: none;
+  color: white;
+  font-family: inherit;
+  font-size: 1em;
+  font-weight: inherit;
+}
+.video-am1 {
+  height: 742px;
+}
+.p1-am1 {
+  color: white;
+  font-size: 2em;
+  font-weight: inherit;
+  font-family: inherit;
+  text-align: center;
+}
+.hero-headline {
+  background: radial-gradient(#eff1ff, #000);
+  background-size: 100% 200%;
+  background-position: 50% 100%;
+  -webkit-background-clip: text;
+  background-clip: text;
+  -webkit-text-fill-color: transparent;
+  margin-top: 16px;
+  padding-bottom: 12px;
+  font-weight: 500;
+  text-align: center;
+  font-size: 6em;
+}
+.p2-am1 {
+  margin-left: 232px;
+  margin-right: 241px;
+  font-size: 32px;
+  line-height: 1.25;
+  font-weight: 500;
+  letter-spacing: 0.004em;
+  font-family: "SF Pro Display", "SF Pro Icons", "Helvetica Neue", "Helvetica",
+    "Arial", sans-serif;
+}
+.impara-am1 {
+  font-size: 28px;
+  line-height: 1.14286;
+  font-weight: 600;
+  letter-spacing: 0.007em;
+  font-family: "SF Pro Display", "SF Pro Icons", "Helvetica Neue", "Helvetica",
+    "Arial", sans-serif;
+  margin-top: 5%;
+  text-align: start;
+  margin-left: -24%;
+}
+.para3-am1 {
+  text-align: center;
+  font-size: 80px;
+  line-height: 1.05;
+  font-weight: 700;
+  letter-spacing: -0.015em;
+  font-family: "SF Pro Display", "SF Pro Icons", "Helvetica Neue", "Helvetica",
+    "Arial", sans-serif;
+  color: white;
+  margin-left: 9%;
+  margin-top: 2%;
+}
+.para4-am1 {
+  font-size: 28px;
+  line-height: 1.14286;
+  font-weight: 500;
+  letter-spacing: 0.007em;
+  font-family: "SF Pro Display", "SF Pro Icons", "Helvetica Neue", "Helvetica",
+    "Arial", sans-serif;
+  color: #a1a1a6;
+  margin-right: 35%;
+}
+.grid {
+  width: 95%;
+  margin-left: 3%;
+  margin-right: 17%;
+}
+.grid-item-am1 {
+  font-size: 21px;
+  line-height: 1.19048;
+  font-weight: 600;
+  letter-spacing: 0.011em;
+  font-family: "SF Pro Display", "SF Pro Icons", "Helvetica Neue", "Helvetica",
+    "Arial", sans-serif;
+  padding-top: 3%;
+
+  font-style: normal;
+  color: white;
+
+  margin-left: 3%;
+}
+.grid-item-header-am1 {
+  background: linear-gradient(
+    to right top,
+    #194189 0%,
+    #3b4980 25%,
+    #8738a7 100%
+  );
+  width: 100%;
+  border-radius: 44px;
+}
+.typography-headline-super {
+  font-size: 80px;
+  line-height: 1.05;
+  font-weight: 700;
+  letter-spacing: -0.015em;
+  font-family: "SF Pro Display", "SF Pro Icons", "Helvetica Neue", "Helvetica",
+    "Arial", sans-serif;
+  color: white;
+  margin-left: -15%;
+}
+.color-secondary {
+  color: #c48cfc;
+  margin-left: 0%;
+}
+.color-secondary1 {
+  color: #a1a1a6;
+  font-size: 32px;
+  line-height: 1.125;
+  font-weight: 600;
+  letter-spacing: 0.004em;
+  font-family: "SF Pro Display", "SF Pro Icons", "Helvetica Neue", "Helvetica",
+    "Arial", sans-serif;
+}
+
+.description {
+  font-size: 19px;
+  line-height: 1.4211;
+  font-weight: 600;
+  letter-spacing: 0.012em;
+  font-family: "SF Pro Display", "SF Pro Icons", "Helvetica Neue", "Helvetica",
+    "Arial", sans-serif;
+  color: white;
+  margin-left: -14%;
+  margin-right: 34%;
+}
+.button-am1 {
+  margin-left: -14%;
+  margin-top: 3%;
+  margin-bottom: 10%;
+
+  cursor: pointer;
+  display: inline-block;
+  text-align: center;
+  white-space: nowrap;
+  font-size: 17px;
+  line-height: 1.17648;
+
+  letter-spacing: -0.022em;
+  font-family: "SF Pro Text", "SF Pro Icons", "Helvetica Neue", "Helvetica",
+    "Arial", sans-serif;
+  min-width: 28px;
+  padding-left: 16px;
+  padding-right: 16px;
+  padding-top: 8px;
+  padding-bottom: 8px;
+  border-radius: 18px;
+  background: #0071e3;
+  color: #fff;
+  background-color: transparent;
+  border-width: 2px;
+  border-style: solid;
+  border-radius: 100px;
+  padding: 9px 17px;
+  font-weight: 600;
+  white-space: normal;
+}
+
+.button1-am1 {
+  /* margin-left: -14%; */
+  margin-top: 21%;
+  /* margin-bottom: 3%; */
+  cursor: pointer;
+  display: inline-block;
+  text-align: center;
+  white-space: nowrap;
+  font-size: 17px;
+  line-height: 1.17648;
+  letter-spacing: -0.022em;
+  font-family: "SF Pro Text", "SF Pro Icons", "Helvetica Neue", "Helvetica",
+    "Arial", sans-serif;
+  /* min-width: 28px; */
+  /* padding-left: 16px; */
+  /* padding-right: 16px; */
+  /* padding-top: 8px; */
+  padding-bottom: -1px;
+  border-radius: 18px;
+  background: #0071e3;
+  color: #fff;
+  background-color: transparent;
+  /* background-color: rgb(255 255 255 / 20%); */
+  border-width: 2px;
+  border-style: solid;
+  border-radius: 100px;
+  padding: 9px 17px;
+  font-weight: 600;
+  white-space: normal;
+}
+.gridam1 {
+  margin-top: 3%;
+  margin-left: 0.5%;
+}
+.grid-item-eyebrow {
+  font-size: 21px;
+  line-height: 1.19048;
+  font-weight: 600;
+  letter-spacing: 0.011em;
+  font-family: "SF Pro Display", "SF Pro Icons", "Helvetica Neue", "Helvetica",
+    "Arial", sans-serif;
+  padding-top: 6%;
+
+  font-style: normal;
+  color: white;
+
+  margin-left: 3%;
+}
+.grid-item-eyebrow-am1 {
+  font-size: 21px;
+  line-height: 1.19048;
+  font-weight: 600;
+  letter-spacing: 0.011em;
+  font-family: "SF Pro Display", "SF Pro Icons", "Helvetica Neue", "Helvetica",
+    "Arial", sans-serif;
+  padding-top: 14%;
+
+  font-style: normal;
+  color: white;
+
+  margin-left: 3%;
+}
+.grid-item-content-am1 {
+  margin-left: 15%;
+  margin-top: 33%;
+}
+.grid-item-header {
+  background: linear-gradient(to bottom, #203025 0%, #151516 100%);
+  margin-left: 3%;
+}
+.super-am1 {
+  text-align: center;
+  margin-left: 17%;
+  margin-right: 11%;
+  padding-bottom: 22%;
+  padding-top: 9%;
+  margin-top: 7%;
+  font-size: 80px;
+  line-height: 1.05;
+  font-weight: 700;
+  letter-spacing: -0.015em;
+  font-family: "SF Pro Display", "SF Pro Icons", "Helvetica Neue", "Helvetica",
+    "Arial", sans-serif;
+
+  color: #4cd265;
+}
+.second-am1 {
+  background: linear-gradient(
+    225deg,
+    #1623a6 0%,
+    #3343d4 29%,
+    #175eac 73%,
+    #176682 100%
+  );
+  border-radius: 10%;
+  width: 29%;
+  margin-bottom: 1.5%;
+  /* margin-right: -1%; */
+  margin-left: 1%;
+}
+.typ-am1 {
+  font-size: 32px;
+  line-height: 1.125;
+  font-weight: 600;
+  letter-spacing: 0.004em;
+  font-family: "SF Pro Display", "SF Pro Icons", "Helvetica Neue", "Helvetica",
+    "Arial", sans-serif;
+  color: white;
+  margin-top: 35%;
+  margin-left: -8%;
+  margin-right: 8%;
+}
+.third-am1 {
+  border-radius: 46px;
+  margin-left: 4%;
+  width: 92%;
+  background: linear-gradient(to bottom, #061420 0%, #151516 100%);
+  background: linear-gradient(to bottom, #061420 0%, #151516 100%);
+}
+.grid10-am1 {
+  background: linear-gradient(to bottom, #061420 0%, #151516 100%);
+}
+.typography-callout {
+  padding-top: 10%;
+  font-size: 32px;
+  line-height: 1.125;
+  font-weight: 600;
+  letter-spacing: 0.004em;
+  font-family: "SF Pro Display", "SF Pro Icons", "Helvetica Neue", "Helvetica",
+    "Arial", sans-serif;
+}
+.mac-am1 {
+  margin-left: 4%;
+  background-image: url("../../assets/maci.jpg");
+  margin-right: 4.5%;
+  border-radius: 42px;
+  margin-top: 2.5%;
+}
+.sixth1-am1 {
+  background-image: url("../../assets/sixth.jpg");
+  margin-left: 7%;
+  border-radius: 37px;
+  width: 43%;
+}
+.sixth2-am1 {
+  background-image: url("../../assets/sixth1.jpg");
+  width: 43%;
+  border-radius: 32px;
+  margin-left: 2%;
+}
+.heading-six {
+  font-size: 21px;
+  line-height: 1.19048;
+  font-weight: 600;
+  letter-spacing: 0.011em;
+  font-family: "SF Pro Display", "SF Pro Icons", "Helvetica Neue", "Helvetica",
+    "Arial", sans-serif;
+  color: white;
+  margin-top: 5%;
+}
+.para-sixth {
+  color: white;
+  font-size: 18px;
+  line-height: 1.4211;
+  font-weight: 500;
+  letter-spacing: 0.012em;
+  font-family: "SF Pro Display", "SF Pro Icons", "Helvetica Neue", "Helvetica",
+    "Arial", sans-serif;
+  margin-right: 35px;
+}
+.second-parasix {
+  color: white;
+  font-size: 80px;
+  line-height: 1.05;
+  font-weight: 700;
+  letter-spacing: -0.015em;
+  font-family: "SF Pro Display", "SF Pro Icons", "Helvetica Neue", "Helvetica",
+    "Arial", sans-serif;
+  margin-top: 16%;
+  margin-bottom: 10%;
+  margin-left: 20%;
+  margin-right: 25%;
+  text-align: center;
+}
+.sixth-am1 {
+  margin-top: 3%;
+}
+
+.head-am1 {
+  font-size: 17px;
+  line-height: 1.47059;
+  font-weight: 400;
+  letter-spacing: -0.022em;
+  font-family: "SF Pro Text", "SF Pro Icons", "Helvetica Neue", "Helvetica",
+    "Arial", sans-serif;
+  color: #fff;
+  color: #1d1d1f;
+  font-style: normal;
+}
+.head2-am1 {
+  margin-left: 3%;
+  padding-top: 3%;
+  padding-bottom: 8%;
+  color: white;
+  font-size: 21px;
+  line-height: 1.19048;
+  font-weight: 600;
+  letter-spacing: 0.011em;
+  font-family: "SF Pro Display", "SF Pro Icons", "Helvetica Neue", "Helvetica",
+    "Arial", sans-serif;
+}
+.section-eyebrow {
+  margin-left: 18%;
+  margin-top: 10%;
+  color: #a1a1a6;
+  font-size: 80px;
+  line-height: 1.05;
+  font-weight: 700;
+  letter-spacing: -0.015em;
+  font-family: "SF Pro Display", "SF Pro Icons", "Helvetica Neue", "Helvetica",
+    "Arial", sans-serif;
+}
+.eight-am1 {
+  background-image: url("../../assets/eight.jpg");
+}
+.heading-eight-am1 {
+  box-sizing: border-box;
+  padding: var(--tile-padding);
+  padding-bottom: 0;
+  flex-basis: 0;
+  color: white;
+  padding-top: 2%;
+  margin-left: 5%;
+}
+.typography-headline-super-am1 {
+  margin-left: 18%;
+  color: white;
+  font-size: 80px;
+  line-height: 0.5;
+  font-weight: 700;
+  letter-spacing: -0.015em;
+  font-family: "SF Pro Display", "SF Pro Icons", "Helvetica Neue", "Helvetica",
+    "Arial", sans-serif;
+}
+.typography-badge-caption {
+  color: #a1a1a6;
+  margin-left: 18%;
+  margin-top: 4%;
+  margin-right: 33%;
+  font-size: 28px;
+  line-height: 1.14286;
+  font-weight: 500;
+  letter-spacing: 0.007em;
+  font-family: "SF Pro Display", "SF Pro Icons", "Helvetica Neue", "Helvetica",
+    "Arial", sans-serif;
+}
+.eight-am1 {
+  margin-left: 5%;
+  margin-top: 3%;
+  margin-right: 5%;
+  border-radius: 37px;
+}
+.h3-eightam1 {
+  color: white;
+  margin-left: 8%;
+  margin-top: 26%;
+  margin-bottom: 29%;
+
+  font-size: 80px;
+  line-height: 1.05;
+  font-weight: 700;
+  letter-spacing: -0.015em;
+  font-family: "SF Pro Display", "SF Pro Icons", "Helvetica Neue", "Helvetica",
+    "Arial", sans-serif;
+}
+.eight2div-am1 {
+  margin-top: 14%;
+  text-align: center;
+}
+
+.badge-caption {
+  left: 0;
+  box-sizing: border-box;
+  display: block;
+  position: absolute;
+  top: 100%;
+  width: 100%;
+  z-index: 1;
+
+  font-size: 28px;
+  line-height: 1.14286;
+  font-weight: 500;
+  letter-spacing: 0.007em;
+  font-family: "SF Pro Display", "SF Pro Icons", "Helvetica Neue", "Helvetica",
+    "Arial", sans-serif;
+
+  color: white;
+}
+.badge-value {
+  left: -2px;
+  display: block;
+  white-space: nowrap;
+  position: relative;
+  z-index: 1;
+  color: white;
+  font-size: 172px;
+  margin-bottom: 29%;
+  margin-top: -5%;
+  font-weight: 700;
+}
+.badge-subvalue {
+  font-size: 96px;
+  line-height: 1.04167;
+  font-weight: 700;
+  letter-spacing: -0.015em;
+  font-family: "SF Pro Display", "SF Pro Icons", "Helvetica Neue", "Helvetica",
+    "Arial", sans-serif;
+  color: white;
+}
+.ret-am1 {
+  position: relative;
+  display: block;
+  margin-left: 19%;
+  margin-top: 10%;
+  border: 27%;
+  outline: solid;
+}
+.fifthsection-am1 {
+  margin-left: 5%;
+  margin-right: 46%;
+  color: white;
+  margin-top: 9%;
+  font-size: 56px;
+  line-height: 1.07143;
+  font-weight: 700;
+  letter-spacing: -0.028em;
+  font-family: "SF Pro Display", "SF Pro Icons", "Helvetica Neue", "Helvetica",
+    "Arial", sans-serif;
+}
+.fifthdesp-am1 {
+  margin-left: 5%;
+  margin-right: 18%;
+  color: white;
+  font-size: 19px;
+  line-height: 1.4211;
+  font-weight: 600;
+  letter-spacing: 0.012em;
+  font-family: "SF Pro Display", "SF Pro Icons", "Helvetica Neue", "Helvetica",
+    "Arial", sans-serif;
+}
+.ret1-am1 {
+  position: inherit;
+  /* position: relative; */
+  margin-top: -42%;
+  margin-left: 10%;
+}
+.divp2-am1 {
+  color: #a1a1a6;
+  margin-left: 4%;
+  margin-right: 4%;
+  text-align: center;
+}
+.cpu-am1 {
+  margin-left: 6%;
+}
+.maceleven {
+  margin-top: 3%;
+}
+.elevenheader-am1 {
+  position: relative;
+  z-index: 1;
+  background: #181725;
+  border-radius: 41px;
+}
+.elevenheader1-am1 {
+  color: white;
+  font-size: 21px;
+  line-height: 1.19048;
+  font-weight: 600;
+  letter-spacing: 0.011em;
+  font-family: "SF Pro Display", "SF Pro Icons", "Helvetica Neue", "Helvetica",
+    "Arial", sans-serif;
+}
+.imgeleven {
+  margin-top: -102%;
+  margin-left: 27%;
+}
+.he11 {
+  min-height: 700px;
+  margin-left: 10%;
+  padding-top: 7%;
+  font-size: 21px;
+  line-height: 1.19048;
+  font-weight: 600;
+  letter-spacing: 0.011em;
+  font-family: "SF Pro Display", "SF Pro Icons", "Helvetica Neue", "Helvetica",
+    "Arial", sans-serif;
+  color: white;
+}
+
+.cla11 {
+  font-size: 80px;
+  line-height: 1.05;
+  font-weight: 700;
+  letter-spacing: -0.015em;
+  font-family: "SF Pro Display", "SF Pro Icons", "Helvetica Neue", "Helvetica",
+    "Arial", sans-serif;
+  color: white;
+}
+.maceleven1 {
+  margin-left: 3%;
+  width: 46%;
+}
+.maceleven2 {
+  display: flex;
+  flex-direction: column;
+  position: relative;
+  z-index: 0;
+  box-sizing: border-box;
+  overflow: hidden;
+  background-color: #151516;
+  border-radius: var(--tile-border-radius);
+  min-height: 700px;
+  border-radius: 41px;
+  width: 40%;
+  margin-left: 2%;
+}
+.true11 {
+  color: white;
+  margin-left: 6%;
+  margin-top: 7%;
+
+  font-size: 21px;
+  line-height: 1.19048;
+  font-weight: 600;
+  letter-spacing: 0.011em;
+  font-family: "SF Pro Display", "SF Pro Icons", "Helvetica Neue", "Helvetica",
+    "Arial", sans-serif;
+}
+.para11 {
+  font-size: 32px;
+  line-height: 1.125;
+  font-weight: 600;
+  letter-spacing: 0.004em;
+  font-family: "SF Pro Display", "SF Pro Icons", "Helvetica Neue", "Helvetica",
+    "Arial", sans-serif;
+  color: white;
+  margin-left: 5%;
+  /* margin-right: -2%; */
+  margin-top: 25%;
+}
+.color-fill {
+  color: #fff;
+}
+.color-fill-gray-two-tone {
+  color: #a1a1a6;
+}
+.book12h2-am1 {
+  color: #a1a1a6;
+  font-size: 80px;
+  line-height: 1.05;
+  font-weight: 700;
+  letter-spacing: -0.015em;
+  font-family: "SF Pro Display", "SF Pro Icons", "Helvetica Neue", "Helvetica",
+    "Arial", sans-serif;
+  position: relative;
+  margin-top: 15%;
+}
+.book12para-am1 {
+  font-size: 80px;
+  line-height: 1.05;
+  font-weight: 700;
+  letter-spacing: -0.015em;
+  font-family: "SF Pro Display", "SF Pro Icons", "Helvetica Neue", "Helvetica",
+    "Arial", sans-serif;
+  color: #f5f5f7;
+}
+.book12para1-am1 {
+  margin-right: 39%;
+  color: #a1a1a6;
+  font-size: 28px;
+  line-height: 1.14286;
+  font-weight: 500;
+  letter-spacing: 0.007em;
+  font-family: "SF Pro Display", "SF Pro Icons", "Helvetica Neue", "Helvetica",
+    "Arial", sans-serif;
+}
+.book12h2 {
+  color: #a1a1a6;
+  font-size: 80px;
+  line-height: 1.05;
+  font-weight: 700;
+  letter-spacing: -0.015em;
+  font-family: "SF Pro Display", "SF Pro Icons", "Helvetica Neue", "Helvetica",
+    "Arial", sans-serif;
+  margin-top: 18%;
+}
+.book12para2-am1 {
+  font-size: 80px;
+  line-height: 1.05;
+  font-weight: 700;
+  letter-spacing: -0.015em;
+  font-family: "SF Pro Display", "SF Pro Icons", "Helvetica Neue", "Helvetica",
+    "Arial", sans-serif;
+  color: #f5f5f7;
+}
+.book12para3 {
+  font-size: 28px;
+  line-height: 1.14286;
+  font-weight: 500;
+  letter-spacing: 0.007em;
+  font-family: "SF Pro Display", "SF Pro Icons", "Helvetica Neue", "Helvetica",
+    "Arial", sans-serif;
+  color: #a1a1a6;
+  margin-right: 41%;
+}
+
+@media (max-width: 1200px) {
+  .video-am1 {
+    /* width: 63%; */
+    height: 433px;
+    position: relative;
+    width: 100%;
+  }
+  .pm-am1 {
+    margin-top: 10%;
+  }
+  .hero-headline {
+    margin-left: 17%;
+    margin-right: 10%;
+    margin-top: -1%;
+    text-align: center;
+  }
+  .p2-am1 {
+    margin-left: 13%;
+    margin-right: 14%;
+    text-align: center;
+  }
+  .apple1-am1 {
+    margin-left: -9%;
+  }
+  .para3-am1 {
+    margin-left: 10%;
+  }
+  .para4-am1 {
+    margin-right: 11%;
+    font-size: 28px;
+    margin-left: 9%;
+  }
+  .typography-headline-super {
+    margin-right: 0%;
+    font-size: 71px;
+  }
+  .description {
+    margin-right: 10%;
+  }
+  .propic {
+    width: 100%;
+  }
+}
+
+@media (max-width: 640px) {
+  .video-am1 {
+    width: 100%;
+    margin-top: -38%;
+    margin-bottom: -36%;
+  }
+  .para-am1 {
+    font-size: 14px;
+    margin-bottom: -2px;
+  }
+  .fixed-header-am1 {
+    margin-top: 5px;
+    width: 98%;
+  }
+
+  .fhh-am1 {
+    margin-left: 7%;
+    margin-right: 10%;
+  }
+  .hero-headline {
+    font-size: 50px;
+    margin-left: 8%;
+    margin-right: 5%;
+  }
+  .sim1-am1 {
+    width: 32%;
+
+    margin-left: 44%;
+  }
+  .impara-am1 {
+    margin-left: 105px;
+    font-size: 18px;
+    /* margin-right: -58px; */
+    margin-right: -145px;
+  }
+  .p1-am1 {
+    width: 100%;
+  }
+  .p2-am1 {
+    margin-left: -1%;
+    margin-right: -2%;
+    font-size: 25px;
+  }
+  .apple1-am1 {
+    width: 39%;
+    margin-top: 30px;
+    margin-right: 25px;
+    margin-left: -231px;
+  }
+  .para3-am1 {
+    width: 60%;
+    margin-left: 14px;
+    font-size: 40px;
+  }
+  .para4-am1 {
+    margin: 0px;
+    font-size: 16px;
+    line-height: 1.19048;
+    font-weight: 600;
+    letter-spacing: 0.011em;
+    font-family: "SF Pro Display", "SF Pro Icons", "Helvetica Neue", "Helvetica",
+      "Arial", sans-serif;
+    margin-right: 58px;
+  }
+  .img4-am1 {
+    height: 100%;
+    width: 100%;
+  }
+  .grid-item-header-am1 {
+    border-radius: initial;
+    width: 100%;
+    margin-left: -11px;
+    padding-right: 18px;
+  }
+  .grid-item-am1 {
+    font-size: 16px;
+    margin-left: 10%;
+  }
+  .gcpu-am1 {
+    width: 100%;
+  }
+  .typography-headline-super {
+    font-size: 40px;
+    margin-left: 14px;
+    margin-right: 29px;
+  }
+  .typ10am1 {
+    width: 100%;
+    margin-left: 10%;
+    margin-right: 7%;
+    margin-top: -17%;
+    margin-bottom: 11%;
+  }
+  .typ-am1 {
+    font-size: 20px;
+  }
+  .color-secondary1 {
+    font-size: 20px;
+  }
+  .mac-am1 {
+    border-radius: initial;
+    width: 100%;
+    margin: 0%;
+  }
+  .head2-am1 {
+    font-weight: 600;
+    font-size: 18px;
+    margin-left: 32px;
+    padding-top: 10%;
+  }
+  .macos-am1 {
+    width: 100%;
+  }
+  .fifthsection-am1 {
+    font-size: 40px;
+    margin-left: 10%;
+    width: 73%;
+    font-weight: 700;
+  }
+  .fifthdesp-am1 {
+    margin-left: 10%;
+    width: 84%;
+    font-size: 18px;
+  }
+  .macos1-am1 {
+    margin-top: 10%;
+    width: 100%;
+    height: 100%;
+    margin-bottom: -2%;
+  }
+  .sixth-am1 {
+    margin-top: 10%;
+  }
+  .sixth1-am1 {
+    border-radius: initial;
+    width: 100%;
+  }
+  .heading-six {
+    margin-top: 10%;
+    font-size: 20px;
+    font-weight: 500;
+  }
+  .para-sixth {
+    font-weight: 600;
+    font-size: 18px;
+    width: 94%;
+  }
+  .second-parasix {
+    margin-left: 14%;
+    font-size: 48px;
+    text-align: center;
+    line-height: 59px;
+  }
+  .sixth2-am1 {
+    margin-top: 8%;
+    width: 100%;
+    border-radius: initial;
+  }
+  .heading-six1 {
+    color: white;
+    margin-left: 10%;
+    margin-top: 10%;
+    font-weight: 500;
+    font-size: 19px;
+  }
+  .ps {
+    width: 85%;
+    margin-left: 10%;
+    /* margin-right: 48%; */
+    font-weight: 600;
+  }
+  .run {
+    width: 83%;
+    margin-bottom: 10%;
+  }
+  .eight-am1 {
+    width: 100%;
+    margin: 0%;
+    border-radius: initial;
+    margin-top: 10%;
+  }
+  .heading-eight-am1 {
+    margin-left: 10%;
+    padding-top: 10%;
+    font-size: 18px;
+    font-weight: 700;
+  }
+  .maineight-am1 {
+    width: 100%;
+  }
+  .h3-eightam1 {
+    width: 84%;
+    font-size: 45px;
+  }
+  .badge-value {
+    font-size: 79px;
+    text-align: center;
+    margin-top: -25%;
+    margin-left: 66%;
+    padding-bottom: 54%;
+  }
+  .badge-subvalue {
+    font-size: 47px;
+  }
+  .badge-caption {
+    margin-top: -179%;
+    font-size: 19px;
+    font-weight: 600;
+    margin-left: -75%;
+  }
+  .section5-am1 {
+    margin-top: 20%;
+  }
+  .retdisplay {
+    margin-left: 10%;
+    padding-top: 14%;
+  }
+  .retdis1 {
+    margin-left: 10%;
+    font-size: 42px;
+    /* margin-right: 13%; */
+    line-height: 30px;
+  }
+  .retdis2 {
+    width: 83%;
+    margin-left: 10%;
+    font-size: 21px;
+    font-weight: 500;
+  }
+  .ret-am1 {
+    width: 80%;
+    margin-left: 11%;
+    margin-bottom: -9%;
+  }
+  .ret1-am1 {
+    margin-bottom: 25%;
+    /* margin-top: -97px; */
+    margin-left: 1%;
+  }
+  .description {
+    margin-left: -13px;
+    font-size: 16px;
+  }
+  .button-am1 {
+    margin-left: -13px;
+    margin-right: 174px;
+    text-align: initial;
+    font-size: 12px;
+  }
+  .propic-am1 {
+    width: 100%;
+  }
+  .propic {
+    width: 100%;
+    height: 352px;
+    margin: 6%;
+  }
+  .gridam1 {
+    width: 100%;
+  }
+  .uk-width-2-3 {
+    width: 99%;
+    padding: 0%;
+    margin: 0%;
+  }
+  .grid-item-eyebrow {
+    margin-left: 10%;
+    font-size: 19px;
+  }
+  .super-am1 {
+    text-align: center;
+    font-size: 40px;
+  }
+  .second-am1 {
+    width: 100%;
+    border-radius: initial;
+    margin-left: -2px;
+  }
+  .grid-item-eyebrow-am1 {
+    font-size: 16px;
+    margin-left: 0%;
+  }
+
+  .button1-am1 {
+    margin-bottom: 10%;
+  }
+  .third-am1 {
+    border-radius: inherit;
+    margin: 0%;
+    width: 100%;
+  }
+  .grid10-am1 {
+    margin-left: 10%;
+  }
+  .gridten {
+    width: 100%;
+  }
+  .f2 {
+    padding-top: 10%;
+  }
+
+  .elevenheader-am1 {
+    border-radius: inherit;
+    margin-left: -3%;
+    margin-right: 3%;
+  }
+  .cla11 {
+    font-size: 50px;
+    margin-top: -139%;
+    width: 100%;
+  }
+  .imgeleven {
+    width: 50%;
+    margin-top: -308%;
+  }
+  .maceleven1 {
+    width: 100%;
+  }
+  .maceleven {
+    width: 100%;
+  }
+  .maceleven2 {
+    position: relative;
+    width: 100%;
+    margin-right: -14%;
+    margin-left: 7%;
+    border-radius: inherit;
+    margin-top: 9%;
+  }
+}
+
+/* .macnot-am1{
+    background-color: #1d1d1f;
+    position: relative;
+    min-height: 924px;
+    border-radius: 47px;
+    box-sizing: border-box;
+    /* padding-right: 87px; */
+/* margin-right: 34%; */
+/* padding-left: 64%; */
+/* gap: 37px; */
+/* padding: 74%; */
+/* margin-left: 3%;
+    width: 95%;
+
+}
+.macnoth2-am1{
+    margin-bottom: 0;
+    font-size: 64px;
+    letter-spacing: -.009em;
+    letter-spacing: -0.06;
+    line-height: 1.0625;
+    color: white;
+    font-weight: 600;
+    margin-left: 11%;
+    margin-right: 14%;
+    text-align: center;
+    margin-top: 2%;
+
+}
+.macnota-am1{
+    font-size: 21px;
+    text-align: center;
+    font-weight: 400;
+    line-height: 1.381;
+    margin-top: 7%;
+}
+.uk-grid{
+    margin-top:10%;
+    margin-left: 5%;
+}
+.image1-am1{
+    width: 100%;
+    height: 100%;
+}
+.hh-am1{
+    font-size: 24px;
+    line-height: 1.16667;
+    font-weight: 600;
+    letter-spacing: .009em;
+    font-family: "SF Pro Display","SF Pro Icons","Helvetica Neue","Helvetica","Arial",sans-serif;
+    color: white;
+    margin-left: 10%;
+}
+.3-1-am1{
+    font-size: 14px;
+    line-height: 1.42859;
+    font-weight: 400;
+    letter-spacing: -.016em;
+    font-family: "SF Pro Text","SF Pro Icons","Helvetica Neue","Helvetica","Arial",sans-serif;
+    color: white;
+    margin-left: 10%;
+
+}
+.para2-am1{
+    font-size: 14px;
+    line-height: 1.42859;
+    font-weight: 400;
+    letter-spacing: -.016em;
+    font-family: "SF Pro Text","SF Pro Icons","Helvetica Neue","Helvetica","Arial",sans-serif;
+    color: white;
+    margin-left: 11%;
+} */

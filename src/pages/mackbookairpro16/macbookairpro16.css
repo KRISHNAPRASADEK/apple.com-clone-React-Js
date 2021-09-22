@@ -1,0 +1,357 @@
+
+.main1link{
+    color: #000;
+    font-size: 22px;
+    font-family: inherit;
+    font-weight: 500;
+    margin-left: 13%;
+    margin-top: 1%;
+    display: flex;
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: reverse;
+    -ms-flex-direction: column-reverse;
+    flex-direction: column-reverse;
+    letter-spacing: inherit;
+    line-height: inherit;
+    margin: 0;
+    text-decoration: none;
+    white-space: nowrap;
+    opacity: .88;
+}
+.main1link-1{
+    text-underline-offset: auto;
+    color: #000;
+    /* grid-gap: 28px; */
+    padding: 17px;
+        font-size: 12px;
+    line-height: 1;
+    font-weight: 400;
+    letter-spacing: -.01em;
+    font-family: "SF Pro Text","SF Pro Icons","Helvetica Neue","Helvetica","Arial",sans-serif;
+}
+.main1pro-1{
+    margin-left: 14%;
+    margin-top: 1%;
+}
+.main1pro-b1{
+    background-color: #1e87f0;
+    border-radius: 13px;
+    font-size: 12px;
+    color: white;
+    padding-left: 12px;
+    padding-top: 7px;
+    padding-right: 12px;
+    padding-bottom: 7px;
+    border: none;
+}
+.main1pro-2{
+    margin-right: 12%;
+    float: right;
+    margin-top: -1.5%;
+}
+
+
+/* --------------------section2--------------- */
+.main2pro-h11{
+    font-size: 32px;
+    line-height: 1.25;
+    font-weight: 700;
+    letter-spacing: 0em;
+    font-family: "SF Pro Display","SF Pro Icons","Helvetica Neue","Helvetica","Arial",sans-serif;
+    color: #1d1d1f;
+    padding-top: 6%;
+    
+
+}
+
+.main2pro{
+    margin-top: 2%;
+    text-align: center;
+}
+.main2pro-h12{
+    text-align: center;
+    margin-left: 9%;
+    margin-right: 7%;
+    margin-top: 4%;
+    color: #1d1d1f;
+    font-size: 110px;
+    line-height: .81838;
+    font-weight: 700;
+    letter-spacing: -.009em;
+    font-family: "SF Pro Display","SF Pro Icons","Helvetica Neue","Helvetica","Arial",sans-serif;
+
+}
+
+
+/* --------------------------------section4----------------- */
+.main4pro-para1{
+    margin-top: 10%;
+    padding-right: 17%;
+    padding-left: 14%;
+    color: #888;
+    font-size: 36px;
+    line-height: 1.16667;
+    font-weight: 600;
+    letter-spacing: 0em;
+    font-family: "SF Pro Display","SF Pro Icons","Helvetica Neue","Helvetica","Arial",sans-serif;
+}
+.main4link-1{
+    color: #000;
+    font-weight: 700;
+    font-size: 22px;
+    line-height: 1.18182;
+    font-weight: 700;
+    letter-spacing: .007em;
+    font-family: "SF Pro Display","SF Pro Icons","Helvetica Neue","Helvetica","Arial",sans-serif;
+    margin-left: 14.2%;
+}
+
+
+/* 
+--------------------section5------------------ */
+.main5pro-h21{
+    margin-left: 14%;
+    color: #acacac;
+    font-size: 80px;
+    line-height: 1.05;
+    font-weight: 700;
+    letter-spacing: -.015em;
+    font-family: "SF Pro Display","SF Pro Icons","Helvetica Neue","Helvetica","Arial",sans-serif;
+    margin-top: 10%;
+
+}
+.main5pro-h31{
+    font-size: 80px;
+    line-height: 1.05;
+    font-weight: 700;
+    letter-spacing: -.015em;
+    font-family: "SF Pro Display","SF Pro Icons","Helvetica Neue","Helvetica","Arial",sans-serif;
+    color: #1d1d1f;
+    margin-left: 14%;
+    margin-right: 10%;
+}
+
+
+/* ------------------section6---------------- */
+.main6pro{
+    margin-left: 17%;
+    margin-right: 18%;
+    margin-top: 12%;
+}
+.main6pro-para1{
+    padding-top: 13%;
+/* margin-top: 12%; */
+color: #1d1d1f;
+font-style: normal;
+display: block;
+font-size: 48px;
+line-height: 1.08349;
+font-weight: 600;
+letter-spacing: -.003em;
+font-family: "SF Pro Display","SF Pro Icons","Helvetica Neue","Helvetica","Arial",sans-serif;
+margin-left: 21%;
+margin-right: 20%;
+}
+.main6pro-para2{
+    font-size: 17px;
+    line-height: 1.47059;
+    font-weight: 400;
+    letter-spacing: -.022em;
+    font-family: "SF Pro Text","SF Pro Icons","Helvetica Neue","Helvetica","Arial",sans-serif;
+    /* background-color: #fff; */
+    color: #1d1d1f;
+    font-style: normal;
+    margin-left: 21%;
+}
+.main6pro-para3{
+    font-size: 17px;
+    line-height: 1.47059;
+    font-weight: 400;
+    letter-spacing: -.022em;
+    font-family: "SF Pro Text","SF Pro Icons","Helvetica Neue","Helvetica","Arial",sans-serif;
+    /* background-color: #fff; */
+    color: #1d1d1f;
+    font-style: normal;
+    margin-left: 21%;
+    margin-top: -2%;
+}
+.main6img6{
+    margin-top: -2.5%;
+}
+.main6pro-para4{
+    margin-right: -6%;
+    margin-left: -3%;
+    font-size: 36px;
+    color: #888;
+    line-height: 1.16667;
+    font-weight: 600;
+    letter-spacing: 0em;
+    font-family: "SF Pro Display","SF Pro Icons","Helvetica Neue","Helvetica","Arial",sans-serif;
+    margin-top: 15%;
+}.bold{
+    color: #000;
+}
+
+
+
+/* --------------------------section7------------------------- */
+
+.main7pro{
+    margin-top: 15%;
+}
+.main7pro-para1 {
+    font-size: 80px;
+    line-height: 1.05;
+    font-weight: 700;
+    letter-spacing: -.015em;
+    font-family: "SF Pro Display","SF Pro Icons","Helvetica Neue","Helvetica","Arial",sans-serif;
+    color: #acacac;
+    margin-left: 15%;
+}
+.main7pro-para2{
+    margin-top: -1%;
+    margin-right: 10%;
+    margin-left: 15%;
+    color: #1d1d1f;
+    font-size: 80px;
+    line-height: 1.05;
+    font-weight: 700;
+    letter-spacing: -.015em;
+    font-family: "SF Pro Display","SF Pro Icons","Helvetica Neue","Helvetica","Arial",sans-serif;
+}
+
+
+
+
+/* -sec8----------------------- */
+
+.main8pro-para1{
+    margin-right: 13%;
+    margin-left: 16%;
+    color: #888;
+    font-size: 36px;
+    line-height: 1.16667;
+    font-weight: 600;
+    letter-spacing: 0em;
+    font-family: "SF Pro Display","SF Pro Icons","Helvetica Neue","Helvetica","Arial",sans-serif;
+
+}
+.main8-img1{
+    margin-top: 18%;
+    margin-bottom: 17%;
+    margin-left: 17%;
+}
+.main8pro-para2
+{
+    margin-top: -14%;
+    margin-left: 18%;
+    margin-right: 15%;
+    color: #888;
+    font-size: 19px;
+    line-height: 1.4211;
+    font-weight: 500;
+    letter-spacing: .012em;
+    font-family: "SF Pro Display","SF Pro Icons","Helvetica Neue","Helvetica","Arial",sans-serif;
+}
+.main8pro-parasec21{
+    font-weight: 500;
+    color: #888;
+    font-size: 17px;
+    line-height: 1.23536;
+    font-weight: 400;
+    letter-spacing: -.022em;
+    font-family: "SF Pro Text","SF Pro Icons","Helvetica Neue","Helvetica","Arial",sans-serif;
+
+}
+.main8pro-parasec22{
+    color: #1d1d1f;
+    font-size: 80px;
+    line-height: 1;
+    font-weight: 700;
+    letter-spacing: -.015em;
+    font-family: "SF Pro Display","SF Pro Icons","Helvetica Neue","Helvetica","Arial",sans-serif;
+
+}
+.main8pro-parasec23{
+    font-weight: 500;
+    color: #888;
+    font-size: 17px;
+    line-height: 1.23536;
+    
+    letter-spacing: -.022em;
+    font-family: "SF Pro Text","SF Pro Icons","Helvetica Neue","Helvetica","Arial",sans-serif;
+}
+.main8pro-sec2{
+    margin-top: 9%;
+    width: 70%;
+    margin-left: 14%;
+}
+.elevenheader1-am1{
+    width: 100%;
+}
+
+
+
+/* ----------------------------smallll------------------------------ */
+@media (max-width: 640px){
+    .main1link{
+        margin-left: -14%;
+    margin-top: 16%;
+
+    }
+    .main1pro-b1{
+        float: right;
+        margin-top: -7%;
+        margin-right: 4%;
+    }
+    .main2pro-h12{
+        font-size: 64px;
+    
+    
+    }
+    .main4pro-para1{
+        margin-left: 0%;
+        font-size: 24px;
+        margin-right: -3%;
+
+    }
+    .main5pro-h21{
+        font-size: 48px;
+
+    }
+    .main5pro-h31{
+        font-size: 54px;
+
+    }
+    .main6pro{
+        width: 100%;
+        margin-left: 0%;
+    }
+    .main6pro-para1{
+        font-size: 16px;
+    margin-left: 15%;
+
+    }
+    .main6pro-para4{
+        font-size: 24px;
+    margin-left: 14%;
+    margin-right: 5%;
+
+    }
+    .main7pro-para1{
+        font-size: 24px;
+
+    }
+    .main7pro-para2{
+        font-size: 40px;
+    }
+
+.main8-img1{
+    width:100%;
+    margin-left: 0%;
+
+    }
+.main8pro-para1{
+    font-size: 24px;
+}    
+}

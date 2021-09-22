@@ -1,0 +1,14 @@
+.heading-sign {
+  font-size: 2.2rem;
+  color: black;
+  font-weight: 500;
+  margin-top: 60px;
+}
+
+form .button .submit {
+  border-radius: 40px;
+  border: none;
+  width: 50%;
+  height: 45px;
+  background-color: #0071e3;
+}

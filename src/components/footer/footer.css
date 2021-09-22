@@ -1,0 +1,255 @@
+@import url("https://fonts.googleapis.com/css?family=Poppins:400,500,600,700&display=swap");
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: "Poppins", sans-serif;
+}
+
+footer .footer1 .div1 .d{
+    padding-top: 12px;
+    font-size: 12px;
+    font-weight: 400;
+}
+
+footer .footer1 .div1 ol li{
+    padding-top: 10px;
+    font-size: 12px;
+    font-weight: 400;
+}
+
+footer .footer1 .div1 ol{
+    border-bottom: 1.9px solid #dedede;
+    padding-bottom:16px ;
+    margin-bottom: 0;
+}
+
+
+footer .footer1 .div1{
+    margin: 0 auto;
+    padding: 0 22px;
+    max-width: 980px;
+    
+}
+
+/* footer */
+footer{
+    background-color: #f2f2f2;
+    display: block;
+}
+
+
+
+.footer1 a{
+    margin-left: 2%;
+}
+.footer2{
+    margin: 0 auto;
+    padding: 0 22px;
+    max-width: 980px;
+}
+
+.footer2 button{
+    display: none;
+}
+.footer-ul{
+    display: flex;
+    padding-left: 0%;
+    padding-top: 10px;
+}
+
+
+
+.footer-ul ul{
+    list-style-type: none;
+    padding-left: 0%;
+    margin-top: 0;
+    width: 12%;
+   
+}
+.footer-ul .ulsub .ul2{
+    padding-top: 14px;
+}
+.footer-ul .god{
+    display: none;
+}
+.footer-ul h4{
+    font-size: 12px;
+    font-weight: 600;
+    color:rgb(51, 51, 51);
+    padding-top: 0;
+    margin-bottom: 5%;
+}
+.footer-ul li{
+    line-height: 1.19rem;
+    color: #8c8c8c;
+}
+
+footer .footer1 .div1 ol{
+    list-style: none;
+}
+
+.footer-ul a{
+    color: rgb(51, 51, 51);
+    font-size: 11px;
+    font-weight:400;
+
+}
+
+.footer-ul .ulsub{
+    /* margin-top: 0%; */
+    margin-left: 10%;
+}
+
+/* footer-copy */
+.footer-copy{
+    border-top: 1.5px solid #dedede;
+    display: flex;
+    color:rgb(136, 136, 136);
+    font-size: 11px;
+    font-weight: 400;
+    margin-top: 1%;
+    padding-top: 6px;
+    
+}
+.footer-copy ul{
+    list-style-type: none;
+    display: flex;
+    margin-top: 0;
+    padding-right: 0%;
+    
+    
+}
+.footer-copy li:nth-child(-n+3){
+    
+    width: 6rem;
+    border-right: 1.5px solid #d6d6d6;
+    margin-right: 1%;
+    padding-right: 1%;
+    padding-left: 1%;
+    
+}
+.footer-copy a{
+    color:rgb(136, 136, 136);  
+}
+
+#india{
+    max-width: 100%;
+    color:rgb(136, 136, 136);
+    font-size: 11px;
+    font-weight: 400;
+    position: relative;
+    right:-60px;
+    transform: translate(0,0);
+
+}
+.footer2 .more p {
+    color:rgb(136, 136, 136);
+    font-size: 12px;
+    font-weight: 400;
+    margin-bottom: 0px;
+}
+.footer2 .more .pindia {
+    display: none;
+}
+/* PART-10 FOOTER COPYRIGHT RESPONSIVE */
+@media  screen and (max-width:765px){
+    
+    .footer-ul, .ulsub{
+        border-bottom: none;
+        padding-top: 10px;
+    }
+    .footer-ul ul{
+        margin-bottom: 0%;
+    }
+    .footer-copy{
+        display: flex;
+        flex-direction: row;
+        flex-flow: wrap;
+        width:98%;
+    
+    }
+    .footer-copy ul{
+        padding-left: 0px;
+        margin-left: -5px;
+    }
+    .footer-copy #india{
+        display: none;
+    }
+    .footer-ul{
+        display: flex;
+        flex-direction: row;
+        /* justify-content: space-around; */
+        flex-flow: wrap;
+        width:100%;
+    }
+    .footer-ul .ulsub {
+        margin-left: 0%;
+        margin-bottom: 0%;
+        
+    }
+
+    /* Collapsible footer-ACCORDION */
+    .footer-ul ul{
+        display: none;
+    }
+
+
+    .footer-copy ul{
+        width: 98%;
+    }
+    .footer2{
+        padding-bottom: 4%;
+    }
+    
+
+
+    .footer-ul .god{
+        display: initial;
+        height: auto;
+    }
+    .footer-ul .god p{
+        padding-left: 10px;
+    }
+    .footer-ul .god li{
+        border-bottom: 1.5px solid #dedede;
+        height: 25px;
+    }
+    .footer-ul .god .uk-open{
+        height: auto;
+        padding-bottom: 5px;
+    }
+    .footer-ul .god li h5{
+        font-weight: 600;
+        color: #000;
+        font-size: 12px; 
+
+    }
+    .footer-ul .god .uk-accordion-title:hover{
+        cursor: pointer;
+    }
+    .footer-ul ul{
+        
+        width: 100%;
+    }
+   
+    .uk-accordion-content{
+        width: 100%;
+        height: auto;
+    }
+    .footer2 .more{
+        padding-top: 6px;
+    }
+    .footer-copy {
+      border-top: none;
+    }
+    .footer2 .more .pindia {
+        display: block;
+    }
+
+      
+}
+
+ol, ul {
+    padding-left: 3px;
+}

@@ -1,0 +1,750 @@
+@import url("https://fonts.googleapis.com/css?family=Poppins:400,500,600,700&display=swap");
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: "Poppins", sans-serif;
+}
+
+.part1 .uk-search-input {
+    width: auto;
+}
+.part1 .uk-search-navbar {
+    width: auto;
+}
+ 
+.part1 img{ 
+    width: 85rem;
+    height: 39rem;
+    object-fit: cover;
+    object-position: 49% 85%;
+}
+.part1 h1{
+    color: #333;
+    font-style: normal;
+    font-size: 48px;
+    line-height: 1.0416666667;
+    font-weight: 500;
+    letter-spacing: .006em;
+    position: absolute;
+    top: 24%;
+    left: 52%;
+    transform: translate(-50%,-50%);
+    white-space: nowrap;
+    overflow: hidden;
+}
+
+.uk-navbar-item, .uk-navbar-nav>li>a, .uk-navbar-toggle {
+    min-height: 55px;
+}
+.uk-navbar-container{
+    position: absolute;
+    top: 38%;
+    left: 26%;
+    width: 52%;
+    height: 9%;
+    
+}
+
+
+.part2{
+    margin: 1% 0%;
+    padding: 3% 8%;
+    border-bottom: 1px solid #dedede;
+
+    display: flex;
+    flex-direction: row;
+    flex-flow: wrap;
+
+
+}
+.part2 img{
+    display: block;
+    margin: 0 auto;
+    width: 4.5rem;
+    height: auto;
+}
+.part2 a{
+    color: #333;
+    font-weight: 500;
+}
+.part2 .iphone{
+    width: 150px;
+    font-size: 14px;
+}
+
+.img{
+    padding: 5% 0%;
+    text-align: center;
+}
+
+/* part3 */
+.part3{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    flex-flow: wrap;
+
+    margin: 1% 1%;
+    padding: 3% 7%;
+    border-bottom: 1px solid #dedede;
+}
+.part3 img{
+    display: block;
+    margin: 0 auto;
+    width: 40px;
+    height: 40px;
+}
+.part3 .sub3{
+    width: 290px;
+    font-size: 14px;
+    box-sizing: border-box;
+}
+.part3 .col-2{
+    border-left: 1px solid #dedede;
+    border-right: 1px solid #dedede;
+    
+}
+.text3{
+    padding: 10% 20%;
+    text-align: center;
+    width:107%;
+}
+
+/* part4 */
+.part4{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    flex-flow: wrap;
+    margin: 1% 1%;
+    padding: 1% 8%;
+    border-bottom: 1px solid #dedede;
+    
+}
+
+.part4 .col-1{
+    
+    margin-top: 1%;
+}
+.part4 img{
+    margin-left: 21%;
+    width: 15rem;
+    height: 11rem;
+    object-fit: cover;
+}
+ .part4 .sub4, .sub5{
+     margin: 1% 1%;
+     width: 39%;
+     
+}
+.part4 h3{
+    font-weight: 600;
+    font-size: 32px;
+}
+
+/* PART-5 */
+.part5{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    flex-flow: wrap;
+    margin: 1% 0%;
+    padding: 3% 10%;
+    margin-top: 1%;
+}
+.part5 .virtual, .today{
+    width: 38%;
+}
+.part5 img{
+    width: 20rem;
+    height: 12rem;
+    object-fit: cover;
+    /* position: absolute;
+    left: 52%;
+    right: auto; */
+}
+
+.part5 h3{
+    font-weight: 600;
+    font-size: 2rem;
+    text-align: center;
+    
+}
+
+.part6{
+    display: block;
+}
+.part6 .getsupport{
+    width: 40%;
+    margin-left: 8%;
+    margin-top: -278px;
+    margin-bottom: 120px;
+}
+.part6 img{
+    width: 85rem;
+    height: 27rem;
+    object-fit: cover;
+}
+.part6 a{
+    color: #6bf;
+}
+.part6 p{
+    color: white;
+}
+.part6 h2{
+    color: white;
+    font-size: 34px;
+    font-weight: bold;
+}
+
+.part7{
+    display: flex;
+    margin: 3% 10%;
+    padding: 2% 10%;
+    border-bottom: 1px solid #dedede;
+}
+.part7 .care2{
+    width: 50%;
+}
+.part7 img{
+    width: 20rem;
+    height: 12rem;
+    object-fit: cover;
+    float: left;
+}
+.part7 h3{
+    font-weight: 500;
+    font-size: 32px;
+}
+
+.part8{
+    display: block;
+    margin: 0% 5%;
+    padding: 1% 15%;
+    border-bottom: 1px solid #dedede;
+    text-align: center;
+    
+}
+
+.beware{
+    width: 100%;
+    
+
+}
+.beware p{
+    word-wrap: break-word;
+    
+}
+
+.beware h3{
+    font-size: 24px;
+    font-weight: 500;
+    text-align: center;
+}
+
+.part9{
+    display: block;
+    margin: 0% 0%;
+    padding: 2% 20.5%;
+}
+.part9 h2{
+    font-size: 24px;
+    font-weight: 500;
+    
+}
+.part9 ul{
+    list-style-type: none;
+    /* margin-left: -31px; */
+    margin-left: auto;
+}
+.part9 li{
+    padding-bottom: 1%;
+    font-size: 18px;
+    font-weight: 400;
+}
+
+/* footer */
+footer{
+    background-color: #f2f2f2;
+    display: block;
+}
+
+.footer1{
+    padding-bottom: 2%;
+}
+
+.footer1 h2{
+    padding-top: 2%;
+    width: 200px;
+    margin-left: auto;
+    margin-right: auto;
+    font-size: 13px;
+    color: #333;
+    font-weight: 400;
+    letter-spacing: -0.021em;
+}
+.footer1 img{
+    max-width: 100%;
+    max-height: 100%;
+    width: 32px;
+    aspect-ratio: auto 32 / 32;
+    height: 32px;
+    
+}
+.footer1 .col-2{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.footer1 a{
+    margin-left: 2%;
+}
+.footer2{
+    margin: 0 auto;
+    padding: 0 22px;
+    max-width: 980px;
+}
+
+.footer2 button{
+    display: none;
+}
+.footer-ul{
+    display: flex;
+    border-bottom: 1.5px solid #dedede;
+    padding-left: 0%;
+}
+.footer-welcome{
+    display: flex;
+    border-top: 1.5px solid #dedede;
+    
+}
+
+.footer-welcome #apple{
+    margin-top: 20px;
+}
+.footer-welcome #right{
+    display: flex;
+    margin-left: 1%;
+    margin-top: auto;
+}
+.footer-welcome p{
+    margin-left: 10px;
+    font-size: 12px;
+    margin-top: auto;
+}
+.footer-ul ul{
+    list-style-type: none;
+    padding-left: 0%;
+    margin-top: 0;
+   
+}
+.footer-ul .god{
+    display: none;
+}
+.footer-ul h4{
+    font-size: 12px;
+    font-weight: 600;
+    color:rgb(51, 51, 51);
+    padding-top: 0;
+    margin-bottom: 5%;
+}
+.footer-ul li{
+    line-height: 1.19rem;
+    color: #8c8c8c;
+}
+
+.footer-ul a{
+    color: rgb(51, 51, 51);
+    font-size: 11px;
+    font-weight:400;
+
+}
+
+.footer-ul .ulsub{
+    /* margin-top: 0%; */
+    margin-left: 10%;
+}
+
+/* footer-copy */
+.footer-copy{
+    display: flex;
+    color:rgb(136, 136, 136);
+    font-size: 11px;
+    font-weight: 400;
+    margin-top: 1%;
+    
+}
+.footer-copy ul{
+    list-style-type: none;
+    display: flex;
+    margin-top: 0;
+    padding-right: 0%;
+    
+    
+}
+.footer-copy li:nth-child(-n+3){
+    
+    width: 6rem;
+    border-right: 1.5px solid #d6d6d6;
+    margin-right: 1%;
+    padding-right: 1%;
+    padding-left: 1%;
+    
+}
+.footer-copy a{
+    color:rgb(136, 136, 136);  
+}
+
+#india{
+    max-width: 100%;
+    color:rgb(136, 136, 136);
+    font-size: 11px;
+    font-weight: 400;
+
+}
+
+
+
+
+
+/* RESPONSIVE */
+/* banner */
+@media only screen and (max-width: 1068px){
+    .part1 img{
+        width: 85rem;
+        height: 35.5rem;
+        object-fit: cover;
+        object-position: 49% 85%;
+    }
+    .part1 h1{
+        font-size: 35px;
+    }
+    .uk-navbar-container{
+        position: absolute;
+        left: 17%;
+        width: 71%;
+        
+    }
+}
+/* searchbar */
+@media only screen and (max-width: 735px){
+    
+    .part1 img {
+        height: 20.5rem;
+        object-position: 56% 84%;
+    }
+    .uk-navbar-container {
+        position: absolute;
+        top: 64%;
+        border: 1px solid #b3a89c;
+        left: 6%;
+        width: 88%;
+        height: 6%;
+    }
+    .uk-navbar-item, .uk-navbar-nav>li>a, .uk-navbar-toggle {
+        min-height: 44px;
+        
+    }
+    .uk-search-navbar .uk-search-input {
+        height: 20px;
+        font-size: 1.1rem;
+        margin-top: -2%;
+    }
+    .uk-search-navbar .uk-search-icon {
+        width: 21px;
+    }
+    
+    .uk-search .uk-search-icon {
+        position: absolute;
+        top: -7px;
+    }
+    .uk-navbar-container:not(.uk-navbar-transparent) {
+        background: #ffffff;
+    }
+
+    .part1 h1{
+        word-wrap: break-word;
+        width: auto;
+        height: 35px;
+        font-size: 1.6rem; 
+        position: absolute;
+        top: 52%;
+        left: 50%;
+    }
+    .part2{
+        margin: 14% 0%;
+        padding: 1% 1%;
+        padding-top: 19%;
+    }
+}
+
+@media  screen and (max-width:735px){
+    .part2 .iphone{
+        width:50%;
+    }
+    
+}
+
+
+/* part3 responsive */
+@media  screen and (max-width:1068px){
+    .part3 .sub3{
+        width:87%;
+        margin: 1% 1%;
+        padding: 5% 1%;
+    }
+    .part3 .col-2{
+        border-top: 1px solid #dedede;
+        border-bottom: 1px solid #dedede;
+        border-left: none;
+        border-right: none;
+        padding: 5% 1%;
+        
+    }
+    .text3{
+        padding: 3% 20%;
+        text-align: center;
+    }
+    
+}
+
+/* part4 responsive */
+@media  screen and (max-width:1068px){
+    .part4{
+        padding: 1% 1%;
+    }
+    .part4 .sub4, .sub5{
+        width: 99%;
+        display: flex;
+        flex-direction: row;
+        justify-content: space-around;
+        flex-flow: wrap;
+        padding: 3% 1%;
+        
+
+    }
+    .part4 img {
+        margin-left: 1%;
+    }
+    .part4 .col-1 {
+        width: 50%;
+        margin: 0;
+        padding: 0 0;
+    }
+
+    .part4 h3 {
+        font-weight: 600;
+        font-size: 29px;
+    }
+}
+
+@media  screen and (max-width:735px){
+    .part4 .sub4, .sub5{
+        width: 78%;
+    }
+    .part4 .col-1 {
+    width: 96%;
+    }
+
+}
+
+/* PART-5 RESPONSIVE */
+@media  screen and (max-width:1068px){
+    .part5 .virtual, .today{
+        width: 100%;
+        text-align: center;
+        padding-bottom: 4%;
+    }
+    .part5 img{
+        margin: 0% 1%;
+    }
+    .part5 h3{
+        font-size: 1.6rem;
+    }
+    /* PART-6 RESPONSIVE */
+    .part6 img{
+        height: 21.5rem;
+    }
+}
+
+
+@media  screen and (max-width:735px){
+    .part6{
+        border-bottom: 1.5px solid #dedede;
+    }
+    .part6 img{
+        width: auto;
+        height: 20rem;
+        object-fit: cover;
+    }
+    .part6 .getsupport {
+        width: 55%;
+        margin-top: 16px;
+        margin-bottom: 29px;
+        
+    }
+    .part6 h2{
+        color: #33302c;
+        font-weight: 600;
+    }
+    .part6 p{
+        color:  #4c4742;
+    }
+}
+
+/* PART-7 RESPONSIVE */
+@media  screen and (max-width:1068px){
+    .part7{
+        padding: 4% 5%;
+        margin: 1% 5%;
+    }
+    .part7 img{
+        width: 228px;
+        height: 112px;
+    }
+    .part7 .care2 {
+        width: 89%;
+    }
+    .part7 h3{
+        font-size: 26px;
+    }
+}
+
+
+@media  screen and (max-width:735px){
+    .part7{
+        display: flex;
+        flex-direction: row;
+        justify-content: space-around;
+        flex-flow: wrap;
+    }
+    .part7 img{
+        max-width: 16rem;
+        height: 167%;
+        
+    }
+    .part7 .care2{
+        margin-top: 16%;
+        padding-top: 16%;
+    }
+}
+
+/* PART-8 RESPONSIVE */
+@media  screen and (max-width:735px){
+    .part8 {
+        display: block;
+        margin: 0% 4%;
+        padding: 1% 4%;
+    }
+    .beware h3{
+        font-size: 1.2rem;
+    }
+}
+
+/* PART-9 RESPONSIVE */
+@media  screen and (max-width:735px){
+    .part9{
+        margin: 2% 2%;
+        padding: 1% 2%;
+    }
+    .part9 h2{
+        font-size: 1.2rem;
+        margin: 0 0 20px 0; 
+    }
+    .part9 ul li{
+        font-size: 1rem;
+        padding-bottom: 5%;
+    }
+}
+
+/* PART-10 FOOTER COPYRIGHT RESPONSIVE */
+@media  screen and (max-width:765px){
+    .footer-welcome{
+        border-bottom: 1.5px solid #dedede;
+    }
+    .footer-ul, .ulsub{
+        border-bottom: none;
+        padding-top: 10px;
+    }
+    .footer-ul ul{
+        margin-bottom: 0%;
+    }
+    .footer-copy{
+        display: flex;
+        flex-direction: row;
+        flex-flow: wrap;
+        width:98%;
+    
+    }
+    .footer-copy ul{
+        padding-left: 0px;
+        margin-left: -5px;
+    }
+    .footer-copy #india{
+        left: 0px;
+    }
+    .footer-ul{
+        display: flex;
+        flex-direction: row;
+        /* justify-content: space-around; */
+        flex-flow: wrap;
+        width:100%;
+    }
+    .footer-ul .ulsub {
+        margin-left: 0%;
+        margin-bottom: 0%;
+        
+    }
+
+    /* Collapsible footer-ACCORDION */
+    .footer-ul ul{
+        display: none;
+    }
+
+
+    .footer-copy ul{
+        width: 98%;
+    }
+    .footer2{
+        padding-bottom: 4%;
+    }
+    
+
+
+    .footer-ul .god{
+        display: initial;
+    }
+    .footer-ul .god p{
+        padding-left: 10px;
+    }
+    .footer-ul .god li{
+        border-bottom: 1.5px solid #dedede;
+        height: 25px;
+    }
+    .footer-ul .god .uk-open{
+        height: 310px;
+    }
+    .footer-ul .god li h5{
+        font-weight: 600;
+        color: #000;
+        font-size: 12px; 
+
+    }
+    .footer-ul .god .uk-accordion-title:hover{
+        cursor: pointer;
+    }
+    .footer-ul ul{
+        
+        width: 100%;
+    }
+   
+      .uk-accordion-content{
+          width: 100%;
+          height: 100%;
+      }
+      
+}
+
+
+
